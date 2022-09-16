@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  procedure for case studies and web page presentations, the case study assignment,
+  case study topics, the web page assignment, and additional assignments for the 9-unit
+  subject.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
